@@ -1,20 +1,20 @@
-# MusikKu 🎵
+# MusikKu
 
 Aplikasi pemutar musik modern berbasis **Flutter** (Material 3) dengan antarmuka yang elegan dan responsif.
 
 ---
 
-## 📱 Fitur Utama (UI & State Awal)
+## Fitur Utama (UI & State Awal)
 
-- **🎨 Dark Theme Imersif:** Palette warna modern berbasis Material 3 dengan kontras dan gradien aksen.
-- **🏠 Beranda Interaktif:**
+- **Dark Theme Imersif:** Palette warna modern berbasis Material 3 dengan kontras dan gradien aksen.
+- **Beranda Interaktif:**
   - Header profil & pencarian.
   - *Baru Saja Diputar* (Quick grid).
   - *Playlist Pilihan* (Horizontal card scroll dengan gradien).
   - *Daftar Lagu Terpopuler*.
   - *Persistent Mini-Player* dengan kontrol Play/Pause responsif.
   - *Bottom Navigation Bar* (Beranda, Jelajah, Koleksi, Profil).
-- **🎧 Layar Now Playing (Full Screen Player):**
+- **Layar Now Playing (Full Screen Player):**
   - Cover art dengan efek glow dan bayangan lembut.
   - Judul lagu, artis, dan tombol favorit toggle.
   - Seek bar / slider progress lagu yang dapat digeser.
@@ -22,7 +22,7 @@ Aplikasi pemutar musik modern berbasis **Flutter** (Material 3) dengan antarmuka
 
 ---
 
-## 📁 Struktur Direktori
+## Struktur Direktori
 
 Proyek ini menggunakan arsitektur **Feature-First / Core** yang modular dan mudah dikembangkan:
 
@@ -51,7 +51,7 @@ lib/
 
 ---
 
-## 🚀 Cara Menjalankan
+## Cara Menjalankan
 
 1. **Jalankan aplikasi di emulator atau perangkat:**
    ```bash
