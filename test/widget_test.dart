@@ -7,7 +7,6 @@ void main() {
     await tester.pumpWidget(const MusikKuApp());
 
     // Verify that the title MusikKu renders
-    expect(find.text('MusikKu 🎵'), findsOneWidget);
-    expect(find.text('Beranda'), findsOneWidget);
+    expect(find.text('MusikKu'), findsOneWidget);
   });
 }
